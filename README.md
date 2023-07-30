@@ -1,6 +1,9 @@
 # Preview of the web app
 To view the complete app --> https://dashing-pasca-f121e7.netlify.app/
 
+# React Weather App
+This is a simple React web app that allows users to search for the current weather of a city. The app fetches weather data from a weather API based on the user's search query and displays the relevant information.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
